@@ -34,8 +34,8 @@ A 2D game built with Unity for learning purposes. The objective of the game is t
 
 ![WhatsApp Image 2024-07-19 at 00 26 08_461dd1e7](https://github.com/user-attachments/assets/ab37e4f5-1a4a-4eb3-a02e-88243135fff0)
 
+![image](https://github.com/user-attachments/assets/88a5ec69-724a-41b7-9a1b-9fba7d031b11)
 
-![WhatsApp Image 2024-07-19 at 00 27 03_5e7a281d](https://github.com/user-attachments/assets/a8d88a15-5161-4aac-80f1-4438518b857e)
 
 ## Learning Outcomes
 
